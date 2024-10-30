@@ -1,16 +1,17 @@
 #include <iostream>
 #include <string>
+using namespace std;
 
 int main() {
-    std::string nombre;
+    string nombre;
     int edad;
 
-    std::cout << "Por favor ingresa tu nombre: ";
-    std::cin >> nombre;
+    cout << "Por favor ingresa tu nombre: ";
+    cin >> nombre;
 
-    std::cout << "Por favor ingresa tu edad: ";
-    std::cin >> edad;
+    cout << "Por favor ingresa tu edad: ";
+    cin >> edad;
 
-    std::cout << "Hola, " << nombre << "! Tienes " << edad << " años.\n";
+    cout << "Hola, " << nombre << "! Tienes " << edad << " vueltas al sol.\n";
     return 0;
 }
