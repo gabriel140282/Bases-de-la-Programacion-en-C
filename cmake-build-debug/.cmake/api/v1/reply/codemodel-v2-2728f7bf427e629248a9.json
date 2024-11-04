@@ -28,7 +28,7 @@
 					[
 						0
 					],
-					"name" : "Bases-de-la-programacion",
+					"name" : "Bases-de-la-programacion-en-C",
 					"targetIndexes" : 
 					[
 						0,
@@ -40,16 +40,16 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Bases-de-la-programacion1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Bases-de-la-programacion1-Debug-5b8913a86740e8cabcfc.json",
-					"name" : "Bases-de-la-programacion1",
+					"id" : "Basesdelaprogramacion1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Basesdelaprogramacion1-Debug-9d2ea64da20608066766.json",
+					"name" : "Basesdelaprogramacion1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Bases-de-la-programacion7::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Bases-de-la-programacion7-Debug-f5f9a864bac0db263330.json",
-					"name" : "Bases-de-la-programacion7",
+					"id" : "Basesdelaprogramacion7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Basesdelaprogramacion7-Debug-6793472a83c7715ca397.json",
+					"name" : "Basesdelaprogramacion7",
 					"projectIndex" : 0
 				}
 			]

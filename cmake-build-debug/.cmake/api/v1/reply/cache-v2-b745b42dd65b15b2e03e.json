@@ -2,6 +2,54 @@
 	"entries" : 
 	[
 		{
+			"name" : "",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "======"
+		},
+		{
+			"name" : "Bases-de-la-programacion-en-C_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C/cmake-build-debug"
+		},
+		{
+			"name" : "Bases-de-la-programacion-en-C_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Bases-de-la-programacion-en-C_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C"
+		},
+		{
 			"name" : "Bases-de-la-programacion_BINARY_DIR",
 			"properties" : 
 			[
@@ -27,6 +75,42 @@
 		},
 		{
 			"name" : "Bases-de-la-programacion_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C"
+		},
+		{
+			"name" : "Bases_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C/cmake-build-debug"
+		},
+		{
+			"name" : "Bases_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Bases_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -190,7 +274,7 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/mingw/bin/g++.exe"
 		},
 		{
@@ -334,7 +418,7 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/mingw/bin/gcc.exe"
 		},
 		{
@@ -675,7 +759,7 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Install path prefix, prepended onto install directories."
+					"value" : ""
 				}
 			],
 			"type" : "PATH",
@@ -899,7 +983,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Bases-de-la-programacion"
+			"value" : "Bases-de-la-programacion-en-C"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1292,6 +1376,42 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
+		},
+		{
+			"name" : "Project_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C/cmake-build-debug"
+		},
+		{
+			"name" : "Project_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Project_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

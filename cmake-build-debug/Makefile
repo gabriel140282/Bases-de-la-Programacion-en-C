@@ -116,37 +116,61 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Bases-de-la-programacion1
+# Target rules for targets named Basesdelaprogramacion1
 
 # Build rule for target.
-Bases-de-la-programacion1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Bases-de-la-programacion1
-.PHONY : Bases-de-la-programacion1
+Basesdelaprogramacion1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Basesdelaprogramacion1
+.PHONY : Basesdelaprogramacion1
 
 # fast build rule for target.
-Bases-de-la-programacion1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/build
-.PHONY : Bases-de-la-programacion1/fast
+Basesdelaprogramacion1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion1.dir\build.make CMakeFiles/Basesdelaprogramacion1.dir/build
+.PHONY : Basesdelaprogramacion1/fast
 
 #=============================================================================
-# Target rules for targets named Bases-de-la-programacion7
+# Target rules for targets named Basesdelaprogramacion7
 
 # Build rule for target.
-Bases-de-la-programacion7: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Bases-de-la-programacion7
-.PHONY : Bases-de-la-programacion7
+Basesdelaprogramacion7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Basesdelaprogramacion7
+.PHONY : Basesdelaprogramacion7
 
 # fast build rule for target.
-Bases-de-la-programacion7/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/build
-.PHONY : Bases-de-la-programacion7/fast
+Basesdelaprogramacion7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion7.dir\build.make CMakeFiles/Basesdelaprogramacion7.dir/build
+.PHONY : Basesdelaprogramacion7/fast
+
+Ejercicio_1/Perfil.obj: Ejercicio_1/Perfil.cpp.obj
+.PHONY : Ejercicio_1/Perfil.obj
+
+# target to build an object file
+Ejercicio_1/Perfil.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion1.dir\build.make CMakeFiles/Basesdelaprogramacion1.dir/Ejercicio_1/Perfil.cpp.obj
+.PHONY : Ejercicio_1/Perfil.cpp.obj
+
+Ejercicio_1/Perfil.i: Ejercicio_1/Perfil.cpp.i
+.PHONY : Ejercicio_1/Perfil.i
+
+# target to preprocess a source file
+Ejercicio_1/Perfil.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion1.dir\build.make CMakeFiles/Basesdelaprogramacion1.dir/Ejercicio_1/Perfil.cpp.i
+.PHONY : Ejercicio_1/Perfil.cpp.i
+
+Ejercicio_1/Perfil.s: Ejercicio_1/Perfil.cpp.s
+.PHONY : Ejercicio_1/Perfil.s
+
+# target to generate assembly for a file
+Ejercicio_1/Perfil.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion1.dir\build.make CMakeFiles/Basesdelaprogramacion1.dir/Ejercicio_1/Perfil.cpp.s
+.PHONY : Ejercicio_1/Perfil.cpp.s
 
 Ejercicio_1/main.obj: Ejercicio_1/main.cpp.obj
 .PHONY : Ejercicio_1/main.obj
 
 # target to build an object file
 Ejercicio_1/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion1.dir\build.make CMakeFiles/Basesdelaprogramacion1.dir/Ejercicio_1/main.cpp.obj
 .PHONY : Ejercicio_1/main.cpp.obj
 
 Ejercicio_1/main.i: Ejercicio_1/main.cpp.i
@@ -154,7 +178,7 @@ Ejercicio_1/main.i: Ejercicio_1/main.cpp.i
 
 # target to preprocess a source file
 Ejercicio_1/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion1.dir\build.make CMakeFiles/Basesdelaprogramacion1.dir/Ejercicio_1/main.cpp.i
 .PHONY : Ejercicio_1/main.cpp.i
 
 Ejercicio_1/main.s: Ejercicio_1/main.cpp.s
@@ -162,66 +186,39 @@ Ejercicio_1/main.s: Ejercicio_1/main.cpp.s
 
 # target to generate assembly for a file
 Ejercicio_1/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion1.dir\build.make CMakeFiles/Basesdelaprogramacion1.dir/Ejercicio_1/main.cpp.s
 .PHONY : Ejercicio_1/main.cpp.s
 
-<<<<<<< Updated upstream
-=======
-Ejercicio_1/perfil.obj: Ejercicio_1/perfil.cpp.obj
-.PHONY : Ejercicio_1/perfil.obj
+Ejercicio_7/funcion.obj: Ejercicio_7/funcion.cpp.obj
+.PHONY : Ejercicio_7/funcion.obj
 
 # target to build an object file
-Ejercicio_1/perfil.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/perfil.cpp.obj
-.PHONY : Ejercicio_1/perfil.cpp.obj
+Ejercicio_7/funcion.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion7.dir\build.make CMakeFiles/Basesdelaprogramacion7.dir/Ejercicio_7/funcion.cpp.obj
+.PHONY : Ejercicio_7/funcion.cpp.obj
 
-Ejercicio_1/perfil.i: Ejercicio_1/perfil.cpp.i
-.PHONY : Ejercicio_1/perfil.i
-
-# target to preprocess a source file
-Ejercicio_1/perfil.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/perfil.cpp.i
-.PHONY : Ejercicio_1/perfil.cpp.i
-
-Ejercicio_1/perfil.s: Ejercicio_1/perfil.cpp.s
-.PHONY : Ejercicio_1/perfil.s
-
-# target to generate assembly for a file
-Ejercicio_1/perfil.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/perfil.cpp.s
-.PHONY : Ejercicio_1/perfil.cpp.s
-
-Ejercicio_7/calculos.obj: Ejercicio_7/calculos.cpp.obj
-.PHONY : Ejercicio_7/calculos.obj
-
-# target to build an object file
-Ejercicio_7/calculos.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/calculos.cpp.obj
-.PHONY : Ejercicio_7/calculos.cpp.obj
-
-Ejercicio_7/calculos.i: Ejercicio_7/calculos.cpp.i
-.PHONY : Ejercicio_7/calculos.i
+Ejercicio_7/funcion.i: Ejercicio_7/funcion.cpp.i
+.PHONY : Ejercicio_7/funcion.i
 
 # target to preprocess a source file
-Ejercicio_7/calculos.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/calculos.cpp.i
-.PHONY : Ejercicio_7/calculos.cpp.i
+Ejercicio_7/funcion.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion7.dir\build.make CMakeFiles/Basesdelaprogramacion7.dir/Ejercicio_7/funcion.cpp.i
+.PHONY : Ejercicio_7/funcion.cpp.i
 
-Ejercicio_7/calculos.s: Ejercicio_7/calculos.cpp.s
-.PHONY : Ejercicio_7/calculos.s
+Ejercicio_7/funcion.s: Ejercicio_7/funcion.cpp.s
+.PHONY : Ejercicio_7/funcion.s
 
 # target to generate assembly for a file
-Ejercicio_7/calculos.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/calculos.cpp.s
-.PHONY : Ejercicio_7/calculos.cpp.s
+Ejercicio_7/funcion.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion7.dir\build.make CMakeFiles/Basesdelaprogramacion7.dir/Ejercicio_7/funcion.cpp.s
+.PHONY : Ejercicio_7/funcion.cpp.s
 
->>>>>>> Stashed changes
 Ejercicio_7/main.obj: Ejercicio_7/main.cpp.obj
 .PHONY : Ejercicio_7/main.obj
 
 # target to build an object file
 Ejercicio_7/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion7.dir\build.make CMakeFiles/Basesdelaprogramacion7.dir/Ejercicio_7/main.cpp.obj
 .PHONY : Ejercicio_7/main.cpp.obj
 
 Ejercicio_7/main.i: Ejercicio_7/main.cpp.i
@@ -229,7 +226,7 @@ Ejercicio_7/main.i: Ejercicio_7/main.cpp.i
 
 # target to preprocess a source file
 Ejercicio_7/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion7.dir\build.make CMakeFiles/Basesdelaprogramacion7.dir/Ejercicio_7/main.cpp.i
 .PHONY : Ejercicio_7/main.cpp.i
 
 Ejercicio_7/main.s: Ejercicio_7/main.cpp.s
@@ -237,7 +234,7 @@ Ejercicio_7/main.s: Ejercicio_7/main.cpp.s
 
 # target to generate assembly for a file
 Ejercicio_7/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Basesdelaprogramacion7.dir\build.make CMakeFiles/Basesdelaprogramacion7.dir/Ejercicio_7/main.cpp.s
 .PHONY : Ejercicio_7/main.cpp.s
 
 # Help Target
@@ -248,20 +245,17 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Bases-de-la-programacion1
-	@echo ... Bases-de-la-programacion7
+	@echo ... Basesdelaprogramacion1
+	@echo ... Basesdelaprogramacion7
+	@echo ... Ejercicio_1/Perfil.obj
+	@echo ... Ejercicio_1/Perfil.i
+	@echo ... Ejercicio_1/Perfil.s
 	@echo ... Ejercicio_1/main.obj
 	@echo ... Ejercicio_1/main.i
 	@echo ... Ejercicio_1/main.s
-<<<<<<< Updated upstream
-=======
-	@echo ... Ejercicio_1/perfil.obj
-	@echo ... Ejercicio_1/perfil.i
-	@echo ... Ejercicio_1/perfil.s
-	@echo ... Ejercicio_7/calculos.obj
-	@echo ... Ejercicio_7/calculos.i
-	@echo ... Ejercicio_7/calculos.s
->>>>>>> Stashed changes
+	@echo ... Ejercicio_7/funcion.obj
+	@echo ... Ejercicio_7/funcion.i
+	@echo ... Ejercicio_7/funcion.s
 	@echo ... Ejercicio_7/main.obj
 	@echo ... Ejercicio_7/main.i
 	@echo ... Ejercicio_7/main.s
