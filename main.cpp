@@ -1,10 +1,10 @@
-#include "Ejercicio1/Perfil.h"
+#include "Ejercicio 1/Perfil.h"
 #include "Ejercicio2/instrucciones-prueba.h"
 #include "Ejercicio3/Bucles.h"
 #include "Ejercicio4/Arrays.h"
 #include "Ejercicio5/Funciones.h"
 #include "Ejercicio6/punteros.h"
-#include "Ejercicio7/funcion.h"
+#include "Ejercicio 7/funcion.h"
 #include "Ejercicio8/constantes.h"
 
 int main() {
