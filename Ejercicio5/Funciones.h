@@ -9,4 +9,5 @@ int retorno(int a);
 void palabra();
 void muestra(int a);
 void muestra(string a);
+
 #endif //FUNCIONES_H
