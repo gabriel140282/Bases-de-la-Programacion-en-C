@@ -82,12 +82,20 @@ clean: CMakeFiles/Bases-de-la-programacion7.dir/clean
 CMakeFiles/Bases-de-la-programacion1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion1.dir\build.make CMakeFiles/Bases-de-la-programacion1.dir/build
+<<<<<<< Updated upstream
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Bases-de-la-programacion1"
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target Bases-de-la-programacion1"
+>>>>>>> Stashed changes
 .PHONY : CMakeFiles/Bases-de-la-programacion1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Bases-de-la-programacion1.dir/rule: cmake_check_build_system
+<<<<<<< Updated upstream
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" 2
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" 3
+>>>>>>> Stashed changes
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Bases-de-la-programacion1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Bases-de-la-programacion1.dir/rule
@@ -108,12 +116,20 @@ CMakeFiles/Bases-de-la-programacion1.dir/clean:
 CMakeFiles/Bases-de-la-programacion7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Bases-de-la-programacion7.dir\build.make CMakeFiles/Bases-de-la-programacion7.dir/build
+<<<<<<< Updated upstream
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target Bases-de-la-programacion7"
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" --progress-num=4,5,6 "Built target Bases-de-la-programacion7"
+>>>>>>> Stashed changes
 .PHONY : CMakeFiles/Bases-de-la-programacion7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Bases-de-la-programacion7.dir/rule: cmake_check_build_system
+<<<<<<< Updated upstream
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" 2
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" 3
+>>>>>>> Stashed changes
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Bases-de-la-programacion7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion 1\Tema 3\Bases-de-la-Programacion-en-C\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Bases-de-la-programacion7.dir/rule

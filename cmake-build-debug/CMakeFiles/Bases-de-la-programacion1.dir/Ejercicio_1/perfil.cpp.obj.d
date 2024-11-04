@@ -1,5 +1,6 @@
-CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/main.cpp.obj: \
- C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion\ 1\Tema\ 3\Bases-de-la-Programacion-en-C\Ejercicio\ 1\main.cpp \
+CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/perfil.cpp.obj: \
+ C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion\ 1\Tema\ 3\Bases-de-la-Programacion-en-C\Ejercicio\ 1\perfil.cpp \
+ C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion\ 1\Tema\ 3\Bases-de-la-Programacion-en-C\Ejercicio\ 1\perfil.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -149,9 +150,4 @@ CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/main.cpp.obj: \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
-<<<<<<< Updated upstream
  C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc
-=======
- C:/Program\ Files/JetBrains/CLion\ 2024.2.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
- C:\Users\LCGpe\OneDrive\UAX\Primero\Programacion\ 1\Tema\ 3\Bases-de-la-Programacion-en-C\Ejercicio\ 1\perfil.h
->>>>>>> Stashed changes

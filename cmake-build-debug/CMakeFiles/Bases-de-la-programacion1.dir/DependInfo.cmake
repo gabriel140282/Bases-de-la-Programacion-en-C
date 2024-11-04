@@ -9,6 +9,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C/Ejercicio 1/main.cpp" "CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/main.cpp.obj" "gcc" "CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/main.cpp.obj.d"
+<<<<<<< Updated upstream
+=======
+  "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C/Ejercicio 1/perfil.cpp" "CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/perfil.cpp.obj" "gcc" "CMakeFiles/Bases-de-la-programacion1.dir/Ejercicio_1/perfil.cpp.obj.d"
+>>>>>>> Stashed changes
   )
 
 # Targets to which this target links which contain Fortran sources.

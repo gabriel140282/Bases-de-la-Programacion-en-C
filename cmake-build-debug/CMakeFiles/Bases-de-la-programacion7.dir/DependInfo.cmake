@@ -8,6 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+<<<<<<< Updated upstream
+=======
+  "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C/Ejercicio 7/calculos.cpp" "CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/calculos.cpp.obj" "gcc" "CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/calculos.cpp.obj.d"
+>>>>>>> Stashed changes
   "C:/Users/LCGpe/OneDrive/UAX/Primero/Programacion 1/Tema 3/Bases-de-la-Programacion-en-C/Ejercicio 7/main.cpp" "CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/main.cpp.obj" "gcc" "CMakeFiles/Bases-de-la-programacion7.dir/Ejercicio_7/main.cpp.obj.d"
   )
 

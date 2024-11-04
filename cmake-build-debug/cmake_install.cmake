@@ -2,7 +2,11 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
+<<<<<<< Updated upstream
   set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Bases")
+=======
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Bases-de-la-programacion")
+>>>>>>> Stashed changes
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
