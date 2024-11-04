@@ -6,6 +6,5 @@ void punteros_arrays();
 int asignacion_memoria();
 void aritmetica_punteros();
 void punteros_punteros();
-void punteros_funciones();
 
 #endif //PUNTEROS_H
